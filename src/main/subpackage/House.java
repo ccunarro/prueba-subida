@@ -7,6 +7,8 @@ public class House {
     String address;
     String size;
 
+    //le agrego un comentario para hacer un nuevo commit
+
     public String getAddress() {
         return address;
     }
