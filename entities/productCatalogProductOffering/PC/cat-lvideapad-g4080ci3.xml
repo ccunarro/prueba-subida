@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prd:prodCatalogProdOffer xmlns:prd="http://ns.antel.com.uy/schema/mdm/db/sid/base/product-v1" xmlns:cmn="http://ns.antel.com.uy/schema/mdm/db/sid/base/common-v1" xmlns:cmnext="http://ns.antel.com.uy/schema/mdm/db/sid/extension/common-v1" xmlns:cus="http://ns.antel.com.uy/schema/mdm/db/sid/base/customer-v1" xmlns:mkt="http://ns.antel.com.uy/schema/mdm/db/sid/base/market_sales-v1" xmlns:rsc="http://ns.antel.com.uy/schema/mdm/db/sid/base/resource-v1" xmlns:srv="http://ns.antel.com.uy/schema/mdm/db/sid/base/service-v1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://ns.antel.com.uy/schema/mdm/db/sid/base/product-v1 http://ns.antel.com.uy/schema/mdm/db/sid/base/product/product.xsd">
+    <!-- Notebook Lenovo Ideapad G40-80 Core i3 -->
+    <cmn:urn>mdm:catoff:id:499</cmn:urn>
+    <cmn:id>499</cmn:id>
+    <cmn:code>1-lvig4080ci3</cmn:code>
+    <cmn:auditory>
+        <cmn:coreCreateUser>admin</cmn:coreCreateUser>
+        <cmn:coreCreateDateTime>2017-09-19T11:51:55.249-03:00</cmn:coreCreateDateTime>
+        <cmn:coreModifyUser>admin</cmn:coreModifyUser>
+        <cmn:coreModifyDateTime>2017-09-19T11:51:55.249-03:00</cmn:coreModifyDateTime>
+    </cmn:auditory>
+    <cmn:validFor>
+        <cmn:startDateTime>2016-08-01T00:00:00-03:00</cmn:startDateTime>
+        <cmn:endDateTime>2016-12-23T00:00:00-03:00</cmn:endDateTime>
+    </cmn:validFor>
+    <prd:individuallyProcurable>true</prd:individuallyProcurable>
+    <prd:productCatalog>
+        <cmn:urnref>mdm:prdcat:id:4</cmn:urnref>
+    </prd:productCatalog>
+    <prd:productOffering>
+        <cmn:urnref>mdm:prdoff:id:1711</cmn:urnref>
+        <cmn:coderef>lvig4080ci3</cmn:coderef>
+    </prd:productOffering>
+    <!-- update del archivo -->
+</prd:prodCatalogProdOffer>
